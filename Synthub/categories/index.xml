@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Synthub</title>
+        <link>https://Ikanaid.github.io/Synthub/categories/</link>
+        <description>Recent content in Categories on Synthub</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Ikanaid.github.io/Synthub/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ingénieur</title>
+        <link>https://Ikanaid.github.io/Synthub/categories/ing%C3%A9nieur/</link>
+        <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://Ikanaid.github.io/Synthub/categories/ing%C3%A9nieur/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

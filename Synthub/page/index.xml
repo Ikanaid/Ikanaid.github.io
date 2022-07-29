@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Synthub</title>
+        <link>https://Ikanaid.github.io/Synthub/page/</link>
+        <description>Recent content in Pages on Synthub</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Ikanaid.github.io/Synthub/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://Ikanaid.github.io/Synthub/page/about/</link>
+        <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://Ikanaid.github.io/Synthub/page/about/</guid>
+        <description>&lt;p&gt;Créé par un ancien étudiant en Bac1 ingénieur industriel, Synthub est la platforme regroupant les synthèses et résumés pour les étudiants de la HEH !&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://Ikanaid.github.io/Synthub/page/search/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Ikanaid.github.io/Synthub/page/search/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
